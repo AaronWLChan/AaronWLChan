@@ -1,8 +1,6 @@
 # Hi, I'm Aaron.
 I'm an aspiring software developer from Brisbane.
 
-[![Repos Badge](https://badges.pufler.dev/repos/AaronWLChan)](https://badges.pufler.dev)     [![Commits Badge](https://badges.pufler.dev/commits/yearly/AaronWLChan)](https://badges.pufler.dev)    
-
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)    ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)  ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=brightgreen)
