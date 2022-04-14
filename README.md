@@ -11,6 +11,7 @@ I'm an aspiring software developer from Brisbane.
 ## Profiles
 - [Expo](https://expo.io/@aaronchan)
 - Google Play
+- [npm](https://www.npmjs.com/~achan42)
 
 ## Contact
 Please contact me through my personal [website](https://www.chanaaron.com/contact).
