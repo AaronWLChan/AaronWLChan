@@ -1,16 +1,12 @@
 # Hi, I'm Aaron.
-I'm an aspiring software developer from Brisbane.
+I'm a software developer from Brisbane.
 
 ## Technologies & Tools
 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=brightgreen) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)    ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)  ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=brightgreen) 
-
-## Notable Projects
-- Iron - Workout Planner and Tracker for Android. (in redevelopment)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=brightgreen) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)    ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)  ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=brightgreen) ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=brightgreen) 
 
 ## Profiles
 - [Expo](https://expo.io/@aaronchan)
-- Google Play
 - [npm](https://www.npmjs.com/~achan42)
 
 ## Contact
