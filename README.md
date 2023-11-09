@@ -10,7 +10,7 @@ I'm a software developer from Brisbane.
 - [npm](https://www.npmjs.com/~achan42)
 
 ## Contact
-Please contact me through my personal [website](https://www.chanaaron.com/contact).
+Please contact me through [LinkedIn](https://www.linkedin.com/in/aaronwlchan/)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
