@@ -1,5 +1,5 @@
 # Hi, I'm Aaron.
-I'm a software developer from Brisbane.
+I build web and mobile applications.
 
 ## Technologies & Tools
 
@@ -10,7 +10,7 @@ I'm a software developer from Brisbane.
 - [npm](https://www.npmjs.com/~achan42)
 
 ## Contact
-Please contact me through [LinkedIn](https://www.linkedin.com/in/aaronwlchan/)
+Contact me through [LinkedIn](https://www.linkedin.com/in/aaronwlchan/)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
